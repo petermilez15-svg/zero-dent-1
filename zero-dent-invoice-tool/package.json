@@ -1,0 +1,32 @@
+{
+  "name": "zero-dent-invoice-tool",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "url": "^0.11.4",
+    "react-dom": "19.0.0",
+    "react": "19.0.0",
+    "@vitejs/plugin-react": "^4.5.0",
+    "path": "^0.12.7",
+    "vite": "^6.3.5",
+    "jspdf": "2.5.1",
+    "xlsx": "^0.18.5",
+    "chart.js": "4.4.2",
+    "react-chartjs-2": "5.2.0",
+    "jspdf-autotable": "3.8.2",
+    "html2canvas": "1.4.1",
+    "@google/genai": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
